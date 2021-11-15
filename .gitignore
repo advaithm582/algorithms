@@ -17,6 +17,10 @@
 *.dylib
 *.dll
 
+# MSVC
+*.ilk
+*.pdb
+
 # Fortran module files
 *.mod
 *.smod
