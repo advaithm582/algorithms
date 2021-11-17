@@ -1,6 +1,6 @@
 import unittest
 
-import bfs
+import bfs, dfs
 
 class TestBFS(unittest.TestCase):
     def test_dbfs(self):
@@ -36,6 +36,25 @@ class TestBFS(unittest.TestCase):
                          9: 3, 10: 4}, 
                'parents': {1: -1, 2: 1, 3: 1, 4: 1, 5: 4, 6: 5, 7: 5, 
                            8: 4, 9: 8, 10: 9}}
+        self.assertEqual(res1, op1)
+        
+
+class TestDFS(unittest.TestCase):
+    def test_addfs(self):
+        res1 = dfs.enhanced_dfs({
+            1:(2,3,4,),
+            2:(1,3,),
+            3:(1,2,),
+            4:(1,5,8,),
+            5:(4,6,7,),
+            6:(5,7,8,9,),
+            7:(5,6,),
+            8:(4,6,9,),
+            9:(6,8,10),
+            10:(9,),
+        })
+        op1 = {1: -1, 2: 1, 3: 2, 4: 1, 5: 4, 6: 5,
+               7: 6, 8: 6, 9: 8, 10: 9}
         self.assertEqual(res1, op1)
         
 if __name__ == "__main__":

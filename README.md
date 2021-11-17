@@ -21,4 +21,4 @@ Breadth First Search | Python | [File](python/graph/bfs.py) | [File](python/grap
 Breadth First Search | Python | [File](python/graph/bfs.py#L31) | [File](python/graph/bfs_unittest.py)^ | Graph traversing algorithm that tells the connectivity between two nodes. This one uses an alternate data structure to represent a graph ( a `dict`.)
 Breadth First Search | Python | [File](python/graph/bfs.py#L62) | [File](python/graph/bfs_unittest.py#L22)^ | Graph traversing algorithm that tells the connectivity, **level and shortest path** between two nodes. This one uses an alternate data structure to represent a graph ( a `dict`.)
 Breadth First Search | C++ | [File](cpp/graph/bfs.cpp) | [File]()* | Graph traversing algorithm that tells the connectivity between two nodes.
-Depth First Search | Python | [File](python/graph/dfs.py)* | [File](python/graph/dfs_demo.py)* | Graph traversing algorithm that tells the connectivity 
+Depth First Search | Python | [File](python/graph/dfs.py) | [File](python/graph/bfs_unittest.py#L43)^ [File](python/graph/dfs_demo.py)* | Graph traversing algorithm that tells the connectivity 
