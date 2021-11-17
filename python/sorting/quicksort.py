@@ -104,6 +104,6 @@ def quicksort(array: list, l: int = 0, r: int = -1) -> None:
     # the pivot element i.e. the first element greater than the pivot 
     # element.
     array[l], array[p2-1] = array[p2-1], array[l]
-    
-    quicksort(array, l, p2)
-    quicksort(array, p2+1, r)
+
+    quicksort(array, l, p2-1) # everything lesser than the pivot
+    quicksort(array, p2, r) # including the pivot everything greater

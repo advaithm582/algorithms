@@ -73,11 +73,6 @@ namespace array_io
         }
         return final_sliced;
     }
-
-    bool swap_element(std::vector<int> array, int index_1, int index_2){
-        int tmp = array[index_1];
-
-    }
 }
 
 #endif
