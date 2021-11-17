@@ -56,6 +56,21 @@ namespace array_io
         return out;
     }
 
+    std::string array_output(int *array, int size)
+    {
+        std::string out = "[";
+        for (int i = 0; i < size; i++)
+        {
+            out += std::to_string(array[i]);
+            if (i != size-1)
+            {
+                out += ", ";
+            }
+        }
+        out += "]";
+        return out;
+    }
+
     /**
      * @brief Slices an integer array
      * 
