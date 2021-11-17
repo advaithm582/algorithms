@@ -2,19 +2,6 @@
 
 This repository contains some implementations of algorithms which are in syllabus of the INOI.
 
-## Material
-+---------------+---------------+--------------------+
-| Fruit         | Price         | Advantages         |
-+===============+===============+====================+
-| Bananas       | $1.34         | - built-in wrapper |
-|               |               | - bright color     |
-+---------------+---------------+--------------------+
-| Oranges       | $2.10         | - cures scurvy     |
-|               |               | - tasty            |
-+---------------+---------------+--------------------+
-
-
-
 ## Table of Algorithms
 
 The `*` denotes that the file is not available.
