@@ -8,6 +8,8 @@ This repository contains some implementations of algorithms which are in syllabu
  - The `^` denotes that the file is a Unit Test, instead of a demo.
  - The `-` denotes that the file is an executable program.
 
+> **Note:** The C++ Solutions are just ports of the Python solutions and thus may not be the most efficient way to implement the algorithm in that programming language.
+
 Name of Algorithm | Language | Link to file | Link to demo | Description 
 ------------------|----------|--------------|--------------|-------------
 Binary Search | Python | [File](python/searching/binarysearch.py) | [File](python/searching/binarysearch_demo.py)* | An algorithm to search for an element in a sorted list
