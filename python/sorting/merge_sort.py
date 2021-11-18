@@ -60,3 +60,17 @@ def merge_sort(lst: list[int, float]) -> list[int, float]:
                 j+=1
         
         return lst_std
+    
+def mergesort(lst: list[int, float]) -> None:
+    """mergesort 
+    
+    Sort a list using the concept of Merge Sort
+    Sorting is in place.
+    
+    In merge sort, we split the list recursively into halves and merge
+    them in the end
+
+    Args:
+        lst (list[int, float]): The list to be sorted
+    """
+    lst = merge_sort(lst)
