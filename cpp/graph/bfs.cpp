@@ -10,6 +10,7 @@
  */
 #include<iostream>
 #include<vector>
+#include <conio.h>
 #include "../sorting/array_io.hpp"
 
 using namespace std;
@@ -84,5 +85,6 @@ int main()
         {10, 9},
     };
     cout << array_io::array_output(basic_bfs(gr)) << endl;
+    getch();
     return 0;
 }
