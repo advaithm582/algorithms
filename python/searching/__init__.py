@@ -1,1 +1,1 @@
-import binarysearch
+import searching.binarysearch as binarysearch
