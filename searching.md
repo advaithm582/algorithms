@@ -1,0 +1,5 @@
+---
+permalink: /searching/
+layout: default
+---
+
