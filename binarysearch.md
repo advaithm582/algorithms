@@ -13,10 +13,10 @@ An algorithm to search for an element in a sorted list
  - It works only for sorted arrays.
 
 # Time Complexity
- - $ \Rightarrow T(n) = 1+T\left(\frac{n}{2}\right) $
- - $ \Rightarrow T(n) = 1+1+T\left(\frac{n}{2^2}\right) $
- - $ \Rightarrow T(n) = 1+1+T\left(\frac{n}{2^3}\right) $
- - Hence, $ O(\log_2 n) $
+ - \\( \Rightarrow T(n) = 1+T\left(\frac{n}{2}\right) \\)
+ - \( \Rightarrow T(n) = 1+1+T\left(\frac{n}{2^2}\right) \\)
+ - \( \Rightarrow T(n) = 1+1+T\left(\frac{n}{2^3}\right) \\)
+ - Hence, \\( O(\log_2 n) \\)
 
 
  - ![\Rightarrow T(n) = 1+T\left(\frac{n}{2}\right)](https://i.upmath.me/png/%5CRightarrow%20T(n)%20%3D%201%2BT%5Cleft(%5Cfrac%7Bn%7D%7B2%7D%5Cright))
@@ -27,7 +27,7 @@ An algorithm to search for an element in a sorted list
 # Links
 
 Language |  Link | Code/Demo 
----|---|---
+---------|-------|-----------
 Python | [Code](python/searching/binarysearch.py) | C 
 C++ | Not Available | C 
 Python | [Code](python/searching/binarysearch_demo.py) | D 

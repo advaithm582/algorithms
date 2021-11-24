@@ -8,4 +8,4 @@ description: Searching Algorithms
 [ < Go Back](../)
 
 # List of Algorithms
-- [Binary Search]()
+- [Binary Search](binarysearch/)
