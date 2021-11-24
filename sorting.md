@@ -8,4 +8,4 @@ description: Searching Algorithms
 [ < Go Back](../)
 
 # List of Algorithms
-- [Bubble Sort](https://github.com/advaithm582/school-python-problems/blob/main/2021/September/Lists/program4.py)
+- [Bubble Sort](bubblesort/)
