@@ -5,6 +5,8 @@ redirect_url: "https://www.iarcs.org.in/inoi/online-study-material/topics/binary
 description: Binary Search
 ---
 
+[ < Go Back](../)
+
 # Description
 An algorithm to search for an element in a sorted list
 
