@@ -3,7 +3,7 @@
 This repository contains some implementations of algorithms which are in syllabus of the INOI.
 
 ## Table of Algorithms
-> **Note:** Refer to the [Wiki](../../wiki) for a complete index.
+> **Note:** Refer to the [Webpage](https://advaithm582.github.io/algorithms/) for a complete index.
 
  - The `*` denotes that the file is not available.
  - The `^` denotes that the file is a Unit Test, instead of a demo.
