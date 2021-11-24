@@ -28,7 +28,6 @@ Python | [Code](python/searching/binarysearch.py) | C
 C++ | Not Available | C 
 Python | [Code](python/searching/binarysearch_demo.py) | D 
 C++ | Not Available | D 
- <!--- [Interactive Demo](python/searching/binarysearch_demo.py) --->
  
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
