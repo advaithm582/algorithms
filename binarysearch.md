@@ -5,11 +5,6 @@ redirect_url: "https://www.iarcs.org.in/inoi/online-study-material/topics/binary
 description: Binary Search
 ---
 
-
-
-
-
-
 [ < Go Back](../)
 
 # Description
@@ -27,13 +22,11 @@ An algorithm to search for an element in a sorted list
 
 # Links
 
-Language |  Link | Code/Demo 
----------|-------|-----------
-Python | [Code](python/searching/binarysearch.py) | C 
-C++ | Not Available | C 
-Python | [Code](python/searching/binarysearch_demo.py) | D 
-C++ | Not Available | D 
- 
+## Implementations
+ - [Python (Code)](https://github.com/advaithm582/algorithms/blob/main/python/searching/binarysearch.py)
+
+## Further Reading
+ - [Concept (IARCS Study Material)](https://www.iarcs.org.in/inoi/online-study-material/topics/binarysearch.php)
  
  
  
