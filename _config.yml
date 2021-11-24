@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: Algorithms
 description: Algorithms for the INOI
-markdown: GFM
+markdown: kramdown
