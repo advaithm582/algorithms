@@ -16,15 +16,9 @@ An algorithm to search for an element in a sorted list
 
 # Time Complexity
  - \\( \Rightarrow T(n) = 1+T\left(\frac{n}{2}\right) \\)
- - \( \Rightarrow T(n) = 1+1+T\left(\frac{n}{2^2}\right) \\)
- - \( \Rightarrow T(n) = 1+1+T\left(\frac{n}{2^3}\right) \\)
+ - \\( \Rightarrow T(n) = 1+1+T\left(\frac{n}{2^2}\right) \\)
+ - \\( \Rightarrow T(n) = 1+1+T\left(\frac{n}{2^3}\right) \\)
  - Hence, \\( O(\log_2 n) \\)
-
-
- - ![\Rightarrow T(n) = 1+T\left(\frac{n}{2}\right)](https://i.upmath.me/png/%5CRightarrow%20T(n)%20%3D%201%2BT%5Cleft(%5Cfrac%7Bn%7D%7B2%7D%5Cright))
- - ![\Rightarrow T(n) = 1+1+T\left(\frac{n}{2^2}\right)](https://i.upmath.me/png/%5CRightarrow%20T(n)%20%3D%201%2B1%2BT%5Cleft(%5Cfrac%7Bn%7D%7B2^2%7D%5Cright))
- - ![\Rightarrow T(n) = 1+1+T\left(\frac{n}{2^3}\right)](https://i.upmath.me/png/%5CRightarrow%20T(n)%20%3D%201%2B1%2B1%2BT%5Cleft(%5Cfrac%7Bn%7D%7B2^3%7D%5Cright))
- - Hence, ![O(\log_2 n)](https://i.upmath.me/png/O(\log_2%20n))
 
 # Links
 
