@@ -2,7 +2,7 @@
 permalink: /sorting/
 layout: default
 redirect_url: "https://www.iarcs.org.in/inoi/online-study-material/topics/sorting.php"
-description: Searching Algorithms
+description: Sorting Algorithms
 ---
 
 [ < Go Back](../)
