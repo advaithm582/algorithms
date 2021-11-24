@@ -8,5 +8,6 @@ This repo contains implementations of algorithms in the [INOI Study Material](ht
 
 # Table Of Contents
 1. [Searching](searching/)
-2. [Sorting]()
-3. [Basic Graph Algortihms]()
+2. [Sorting](sorting/)
+3. [Basic Graph Algortihms](graph/)
+4. [Dynamic Programming](dp/)
