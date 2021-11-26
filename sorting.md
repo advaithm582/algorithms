@@ -9,3 +9,5 @@ description: Sorting Algorithms
 
 # List of Algorithms
 - [Bubble Sort](bubblesort/)
+- [Merge Sort](mergesort/)
+- [Quick Sort](quicksort/)
