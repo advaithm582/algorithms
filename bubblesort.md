@@ -14,7 +14,7 @@ An algorithm to sort a list
 
 # Time Complexity
  - As the list sorts \\(n\\) times, and repeats this \\(n\\) times, the time complexity is \\( O(n^2) \\)
- - As a result this algorithm is too innefficient. Have a look at \\( O(n \log_2 n) \\) algorithms, such as [Merge Sort](../mergesort/) of [Quick Sort](../quicksort/)
+ - As a result this algorithm is too innefficient. Have a look at \\( O(n \log_2 n) \\) algorithms, such as [Merge Sort](../mergesort/) or [Quick Sort](../quicksort/)
 
 # Links
 
