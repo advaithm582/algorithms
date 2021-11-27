@@ -11,3 +11,4 @@ This repo contains implementations of algorithms in the [INOI Study Material](ht
 2. [Sorting](sorting/)
 3. [Basic Graph Algortihms](graph/)
 4. [Dynamic Programming](dp/)
+5. [Mathematics Problems](math/)
