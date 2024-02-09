@@ -114,7 +114,7 @@ void quicksort(int *array, int l = 0, int r = -1)
     
     while (p3<r)
     {
-        if (array[p3] <= array[l])
+        if (array[p3] < array[l])
         {
             //array[p2], array[p3] = array[p3], array[p2];
             int temp = array[p3];
@@ -135,7 +135,7 @@ void quicksort(int *array, int l = 0, int r = -1)
     array[p2-1] = array[l];
     array[l] = temp;
 
-    quicksort(array, l, p2-1); // everything lesser than the pivot
+    quicksort(array, l, p2); // everything lesser than the pivot
     quicksort(array, p2, r); // including the pivot everything greater
 }
 
