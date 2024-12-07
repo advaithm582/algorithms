@@ -1,3 +1,13 @@
+> NOTE: This repository was made for practicing algorithms for ZIO (India). At the time, I did not
+> have robust resources for studying the content. Some algorithms listed here might be complicated
+> (e.g. the way quicksort swapping works), incomplete (quicksort doesn't work with duplicates), or
+> inefficient (mergesort doesn't use the existing destination array for the merge, wasting memory.)
+> Use this repository at your own risk. Do not use any of the code here in production!
+>
+> A new repository is being created, which implements the below and more data structures/algorithms
+> in the C programming language. The code will also be commented to allow easy understanding, and
+> will allow for generics. That repository will replace this one when the code is stable.
+
 # Algorithms
 
 This repository contains some implementations of algorithms which are in syllabus of the INOI.
